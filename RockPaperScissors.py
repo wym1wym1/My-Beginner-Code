@@ -46,5 +46,4 @@ while True:
     else:
         break
 
-# Elyas Muhammad Abbas
-       # 3 / 3 
+# WYM1
